@@ -34,5 +34,10 @@ public class WordDAO {
 			throw new RuntimeException("Error Connection Database");
 		}
 	}
+	
+	
+	public List<String> getVicini(int lunghezza){
+		String sql = ""
+	}
 
 }
